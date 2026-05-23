@@ -1,0 +1,6 @@
+{
+  "name": "Vô Hạn Võ Lâm AI",
+  "description": "Hệ thống giả lập võ lâm vô hạn thời gian thực, với GM AI điều chỉnh cốt truyện và võ học vô tận.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
